@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/MonBoza)
-![avatar-2](https://github.com/MonBoza/MonBoza/assets/145809292/9b0ecd39-d413-4bcc-b02b-50c8a4b7f309)
+
