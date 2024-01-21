@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Monica Barboza
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React and Function Programming.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C# and ASP.NET.
+- 📫 How to reach me monboza@gmail.com
 
 <!---
 MonBoza/MonBoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
