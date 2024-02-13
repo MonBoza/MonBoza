@@ -23,3 +23,7 @@ You can click the Preview link to take a look at your changes.
 [![MySQL](https://img.shields.io/badge/-MySQL-blue)](https://www.mysql.com/)
 [![EF Core](https://img.shields.io/badge/-EF_Core-green)](https://docs.microsoft.com/en-us/ef/core/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blueviolet)](https://tailwindcss.com/)
+ [![MySQL Workbench](https://img.shields.io/badge/-MySQL_Workbench-blue)](https://www.mysql.com/products/workbench/)
+[![Vite](https://img.shields.io/badge/-Vite-green)](https://vitejs.dev/)
+ [![VSCode](https://img.shields.io/badge/-VSCode-blue)](https://code.visualstudio.com/)
+ [![Python](https://img.shields.io/badge/-Python-yellow)](https://www.python.org/)
