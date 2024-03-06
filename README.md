@@ -7,7 +7,7 @@ MonBoza/MonBoza is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-- [Checkout my portfolio](https://monicabarboza-portfolio.netlify.app/)
+- [Checkout my portfolio](https://monicabarboza.netlify.app/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonBoza&layout=compact)](https://github.com/MonBoza)
