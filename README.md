@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Monica Barboza
-- 🌱 I’m currently learning C# and ASP.NET.
+- 🌱 I’m currently learning Python Django 
 - 📫 How to reach me monboza@gmail.com
 
 <!---
