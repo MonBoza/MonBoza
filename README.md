@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Monica Barboza
-- 🌱 I’m currently learning Python Django 
+- 👋 Hi, I’m Monica Im a Full Stack Software Developer 
 - 📫 How to reach me monboza@gmail.com
 
 <!---
