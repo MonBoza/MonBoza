@@ -2,7 +2,9 @@
 🎵 Music enthusiast, 🐶 puppy lover, and 🌍 travel aficionado.
 
 📫 How to reach me: monboza@gmail.com
+
 🔗 [Checkout my portfolio](https://monicabarboza.netlify.app/)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonBoza&layout=compact)](https://github.com/MonBoza)
 
