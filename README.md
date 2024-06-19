@@ -1,15 +1,11 @@
-- 👋 Hi, I’m Monica Im a Full Stack Software Developer 
-- 📫 How to reach me monboza@gmail.com
+👋 Hi, I’m Monica! I'm a Full Stack Software Developer.
+🎵 Music enthusiast, 🐶 puppy lover, and 🌍 travel aficionado.
 
-<!---
-MonBoza/MonBoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-- [Checkout my portfolio](https://monicabarboza.netlify.app/)
-
+📫 How to reach me: monboza@gmail.com
+🔗 [Checkout my portfolio](https://monicabarboza.netlify.app/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonBoza&layout=compact)](https://github.com/MonBoza)
+
 
 ## Languages and Tools
 
