@@ -6,7 +6,9 @@
 🔗 [Checkout my portfolio](https://monicabarboza.netlify.app/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonBoza&layout=compact)](https://github.com/MonBoza)
+<p align="center">
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonBoza&layout=compact&langs_count=10"/></a>&nbsp
+</p>
 
 
 ## Languages and Tools
@@ -26,3 +28,4 @@
 [![Vite](https://img.shields.io/badge/-Vite-green)](https://vitejs.dev/)
  [![VSCode](https://img.shields.io/badge/-VSCode-blue)](https://code.visualstudio.com/)
  [![Python](https://img.shields.io/badge/-Python-yellow)](https://www.python.org/)
+
