@@ -6,9 +6,7 @@
 🔗 [Checkout my portfolio](https://monicabarboza.netlify.app/)
 
 
-<p align="center">
-  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonBoza&layout=compact&langs_count=10"/></a>&nbsp
-</p>
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonBoza&layout=compact&langs_count=10"/></a>
 
 
 ## Languages and Tools
