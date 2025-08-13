@@ -26,4 +26,8 @@
 [![Vite](https://img.shields.io/badge/-Vite-green)](https://vitejs.dev/)
  [![VSCode](https://img.shields.io/badge/-VSCode-blue)](https://code.visualstudio.com/)
  [![Python](https://img.shields.io/badge/-Python-yellow)](https://www.python.org/)
+[![JAVA](https://img.shields.io/badge/Java-yellow)](https://www.java.com/en)
+
+
+
 
